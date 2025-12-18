@@ -126,4 +126,4 @@ python detection_pc.py
 
 ### Author
 
-Created by [Your Name/Username] for the "Drone101" Project.
+Created by EllyasGit for the "Object Detection" Project.
