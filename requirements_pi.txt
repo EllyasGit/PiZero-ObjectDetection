@@ -1,0 +1,5 @@
+# DO NOT install opencv-python or picamera2 via pip on Raspberry Pi!
+# Install them via: sudo apt install python3-opencv python3-picamera2
+
+tflite-runtime
+numpy
