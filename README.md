@@ -1,8 +1,3 @@
-Here is a complete, professional, and descriptive `README.md` file. You can copy and paste this directly into your GitHub repository.
-
-I have structured it to clearly separate the **Raspberry Pi** instructions (which are tricky) from the **PC** instructions (which are easy), so users don't get confused.
-
------
 
 # 🚁 TensorFlow Lite Object Detection (Raspberry Pi Zero 2 W & PC)
 
